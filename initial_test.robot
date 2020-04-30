@@ -109,7 +109,7 @@ Test elastic auction_company_name search
     Wait and Click  xpath=//span[@id="more-filter"]
 
 
-#--------------------------------------Documents view test-------------------------------------------------------------
+#-------------------------------------Documents view test-------------------------------------------------------------
 
 
 Test view participant agreement
